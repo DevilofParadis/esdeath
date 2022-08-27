@@ -7,7 +7,7 @@ except ImportError:
         DATABASE_URL = [str, "mongodb+srv://ok:lol@cluster1.udhzs7r.mongodb.net/?retryWrites=true&w=majority"]
         API_HASH = [str, "10e3ed833b0d09699973420d45359409"]
         API_ID = [int, 4665778]
-        BOT_TOKEN = [str, "5322443077:AAH935gkdwLxgiBVbxBbcQeYlfSFZKncqM8"]
+        BOT_TOKEN = [str, "5613702848:AAHqmEv47v3PHuJBkMbO_AYMb-AUC4cq8js"]
         COMPLETED_STR = [str, "▰"]
         REMAINING_STR = [str, "▱"]
         MAX_QUEUE_SIZE = [int, 5]
@@ -21,7 +21,7 @@ except ImportError:
 
         # Public username url or invite link of private chat
         FORCEJOIN = [str,""]
-        FORCEJOIN_ID = [int,-100123465978]
+        FORCEJOIN_ID = [int,]
 
         TRACE_CHANNEL = [int, 0]
 
